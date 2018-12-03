@@ -1,5 +1,5 @@
 {
-  "name": "proconnect",
+  "name": "professionalmedia",
   "version": "1.0.0",
   "description": "Network for IT Professionals and Students",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Kal Academy",
+  "author": "Pandu Sadagopan",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
